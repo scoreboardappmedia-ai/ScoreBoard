@@ -150,6 +150,18 @@ For any questions, requests, and complaints regarding this Privacy Policy or you
 
 Email: scoreboardappmedia@gmail.com
 
+## Account Deletion
+
+To delete your ScoreBoard account and all associated data,
+please send an email to
+scoreboardappmedia@gmail.com
+
+with the subject line "Account Deletion Request",
+including the email address you used in the app.
+
+Your request will be processed within 30 days,
+and you will receive a confirmation once completed.
+
 
 # SCOREBOARD – GİZLİLİK POLİTİKASI
 
@@ -302,5 +314,16 @@ Bu Gizlilik Politikası zaman içinde güncellenebilir. En güncel sürüm her z
 Bu Gizlilik Politikası veya kişisel verilerinizle ilgili her türlü soru, talep ve şikâyetiniz için:
 
 E-posta: scoreboardappmedia@gmail.com
+
+## Hesap Silme
+
+ScoreBoard uygulamasındaki hesabınızı ve ilişkili tüm verilerinizi silmek için
+scoreboardappmedia@gmail.com
+
+adresine, uygulamada kullandığınız e-posta adresi ile birlikte
+"Hesap Silme Talebi" başlıklı bir e-posta gönderebilirsiniz.
+
+Talebiniz en geç 30 gün içinde işlenir ve tarafınıza dönüş yapılır.
+
 
 
