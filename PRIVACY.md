@@ -9,7 +9,7 @@ The data controller of the ScoreBoard Application is:
 
 Name Surname/Title: Hasan Hüseyin ERTUNÇ – Owner and Developer of the ScoreBoard Application
 
-Email: scoreboardappmedia@gmail.com
+Email: info@scoreboardappmedia.com
 
 You can contact us via the communication channels above for your requests regarding your personal data.
 
@@ -119,7 +119,7 @@ You have the following rights within the framework of the relevant legislation (
 
 Under the Scope of GDPR: Other rights foreseen by the applicable legislation, such as the right to receive your data in a structured, commonly used, and machine-readable format (Data Portability), and the right to object to decisions made solely by automated means.
 
-To exercise these rights, you can contact us via the contact information specified in the privacy policy (scoreboardappmedia@gmail.com). Furthermore, your right to lodge a complaint with the relevant authority in your country (KVKK Institution in Turkey) is reserved.
+To exercise these rights, you can contact us via the contact information specified in the privacy policy (info@scoreboardappmedia.com). Furthermore, your right to lodge a complaint with the relevant authority in your country (KVKK Institution in Turkey) is reserved.
 
 ## 9. Security Measures
 To protect your personal data, we strive to:
@@ -148,13 +148,13 @@ This Privacy Policy may be updated over time. The most current version is always
 ## 14. Contact
 For any questions, requests, and complaints regarding this Privacy Policy or your personal data:
 
-Email: scoreboardappmedia@gmail.com
+Email: info@scoreboardappmedia.com
 
 ## Account Deletion
 
 To delete your ScoreBoard account and all associated data,
 please send an email to
-scoreboardappmedia@gmail.com
+info@scoreboardappmedia.com
 
 with the subject line "Account Deletion Request",
 including the email address you used in the app.
@@ -174,7 +174,7 @@ ScoreBoard Uygulaması'nın veri sorumlusu:
 
 Ad Soyad/Unvan: Hasan Hüseyin ERTUNÇ – ScoreBoard Uygulaması Sahibi ve Geliştiricisi
 
-E-posta: scoreboardappmedia@gmail.com
+E-posta: info@scoreboardappmedia.com
 
 Kişisel verilerinizle ilgili talepleriniz için yukarıdaki iletişim kanallarından bize ulaşabilirsiniz.
 
@@ -284,7 +284,7 @@ Saklama süresi dolan veriler, güvenli yöntemlerle silinir veya geri döndür�
 
 GDPR Kapsamında: Verilerinizi yapılandırılmış, yaygın kullanılan ve makinece okunabilir bir formatta alma hakkı (Veri Taşınabilirliği) ile tamamen otomatik araçlarla alınan kararlara itiraz etme hakkı gibi, uygulanabilir mevzuatın öngördüğü diğer haklar.
 
-Bu haklarınızı kullanmak için, gizlilik politikasında belirtilen iletişim bilgilerinden (scoreboardappmedia@gmail.com) bize başvurabilirsiniz. Ayrıca, ülkenizdeki ilgili otoriteye (Türkiye'de KVKK Kurumu) şikâyette bulunma hakkınız da saklıdır.
+Bu haklarınızı kullanmak için, gizlilik politikasında belirtilen iletişim bilgilerinden (info@scoreboardappmedia.com) bize başvurabilirsiniz. Ayrıca, ülkenizdeki ilgili otoriteye (Türkiye'de KVKK Kurumu) şikâyette bulunma hakkınız da saklıdır.
 
 ## 9. Güvenlik Önlemleri
 Kişisel verilerinizi korumak için;
@@ -313,17 +313,18 @@ Bu Gizlilik Politikası zaman içinde güncellenebilir. En güncel sürüm her z
 ## 14. İletişim
 Bu Gizlilik Politikası veya kişisel verilerinizle ilgili her türlü soru, talep ve şikâyetiniz için:
 
-E-posta: scoreboardappmedia@gmail.com
+E-posta: info@scoreboardappmedia.com
 
 ## Hesap Silme
 
 ScoreBoard uygulamasındaki hesabınızı ve ilişkili tüm verilerinizi silmek için
-scoreboardappmedia@gmail.com
+info@scoreboardappmedia.com
 
 adresine, uygulamada kullandığınız e-posta adresi ile birlikte
 "Hesap Silme Talebi" başlıklı bir e-posta gönderebilirsiniz.
 
 Talebiniz en geç 30 gün içinde işlenir ve tarafınıza dönüş yapılır.
+
 
 
 
